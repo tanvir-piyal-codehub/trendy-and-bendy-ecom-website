@@ -1,0 +1,6 @@
+{
+  "name": "Trendy & Bendy Online Store",
+  "description": "Trendy & Bendy is a premier social-commerce fashion & lifestyle store specializing in viral aesthetic products, accessories, gadgets, and pre-order collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
